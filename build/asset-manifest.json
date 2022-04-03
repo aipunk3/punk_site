@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.845bf2a8.css",
+    "main.js": "/static/js/main.744f590f.js",
+    "static/media/background_final.png": "/static/media/background_final.e2c45a4e37933807177e.png",
+    "static/media/put_under_mint_button.gif": "/static/media/put_under_mint_button.416bc40cc35319ef448d.gif",
+    "static/media/loader.gif": "/static/media/loader.e10f56bc2e5c288efab8.gif",
+    "index.html": "/index.html",
+    "main.845bf2a8.css.map": "/static/css/main.845bf2a8.css.map",
+    "main.744f590f.js.map": "/static/js/main.744f590f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.845bf2a8.css",
+    "static/js/main.744f590f.js"
+  ]
+}
