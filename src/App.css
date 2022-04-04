@@ -247,3 +247,13 @@ a{
   margin-right: 10%;
   margin-left: 10%;
 }
+
+/* Mobile logo collision fix */
+@media only screen and (max-width: 750px) {
+  .logo{
+    margin-bottom: 0;
+  }
+  .comment_Maximum{
+    font-size: 20px;
+  }
+}

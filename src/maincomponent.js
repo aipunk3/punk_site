@@ -20,7 +20,7 @@ const Maincomponent = () => {
   
     const [value,setValue] = useState(1) ;
     const [id,setId] = useState(0) ;
-    const [price , setPrice]=useState() ;
+    const [price , setPrice]=useState(0.005) ;
     const [limittoken , setlimittoken] = useState() ;
     
     const connectedwallet = async () => {
