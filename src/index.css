@@ -18,6 +18,8 @@ code {
   /* z-index: 1; */
   justify-content: flex-end;
   margin: 12px;
+  /* To adjust the button */
+  align-items: center;
 }
 .so_icon{
   margin:-12px;

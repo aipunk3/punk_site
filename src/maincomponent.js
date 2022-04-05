@@ -7,7 +7,6 @@ import Loader from 'react-loader-advanced'
 import ArrowBackIosIcon from '@mui/icons-material/ArrowBackIos';
 import ArrowForwardIosIcon from '@mui/icons-material/ArrowForwardIos';
 
-
 const BigNumber = require('bignumber.js');
 
 const { ethereum } = window;

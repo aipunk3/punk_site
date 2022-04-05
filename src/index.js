@@ -3,7 +3,7 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 //import { MetaMaskProvider } from "metamask-react";
-
+import ButtonComponent from './buttonComponent'
 
 ReactDOM.render(
   <React.StrictMode>
@@ -11,6 +11,7 @@ ReactDOM.render(
       <App />
     </MetaMaskProvider> */}
     <div className="socialicon">
+      <ButtonComponent />
       <div className="">
         <a href="https://twitter.com/SmithPunksNFT"><img alt='propd' src="1.png"/></a>
       </div>
